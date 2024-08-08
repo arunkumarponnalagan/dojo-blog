@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+ * Component-Based Architecture: Built dynamic web applications using React's component-based architecture.
+ * State and Props Management: Managed state and props for efficient data flow and interactivity.
+ * React Hooks: Utilized React Hooks, including useState, useEffect, and custom hooks.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
